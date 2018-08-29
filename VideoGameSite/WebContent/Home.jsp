@@ -35,11 +35,11 @@
 	
 	<ul id="nav-tests">
 	<li><p><strong>Monster Hunter: World:</strong><em> LE jeu de l'été.</em></p>
-	<img alt="mhw" src="image/mhthumbnail.jpg" width="350" height="200"></li>
+	<a href=mhworldTest.jsp><img alt="mhw" src="image/mhthumbnail.jpg" width="350" height="200"></a></li>
 	<li><p><strong>CYBERPUNK 2077:</strong><em> La pépite de CDPROJEKT</em></p>
 	<img alt="cyberpunk" src="image/cyberpunkthumbnail.jpg" width="350" height="200"></li>
 	<li><p><strong>Battle for Azeroth:</strong><em> La dernière extension de WoW ?</em></p>
-	<img alt="bfa" src="image/bfa.jpg" widt="350" height="200"></li>
+	<img alt="bfa" src="image/bfa.jpg" width="350" height="200"></li>
 	<li><p><strong>Street Fighter V :</strong><em> Les hitboxes toujours autant mal foutues.</em></p>
 	<img alt="sfv" src="image/sfVthumbnail.jpg" width="350" height="200"></li>
 	</ul>
@@ -55,7 +55,7 @@
 	<li><p><strong>Le nouveau boitier NZXT :</strong><em>Pourquoi l'acheter.</em></p>
 	<img alt="nztcase" src="image/nztcase.png" width="350" height="200"></li>
 	<li><p><strong>La nouvelle game des proccésseurs de Ryzen :</strong><em>Un nouveau souffle pour le deuxième géant de l'hardware.</em></p>
-	<img alt="rproc" src="image/ryzenprocessor.jpg" widt="350" height="200"></li>
+	<img alt="rproc" src="image/ryzenprocessor.jpg" width="350" height="200"></li>
 	<li><p><strong>NVIDIA PRESENTE SES NOUVELLES CARTES GRAPHIQUES A PRIX KC</strong></p>
 	<img alt="rtx" src="image/nvidiartx.jpg" width="350" height="200"></li>
 	</ul>
