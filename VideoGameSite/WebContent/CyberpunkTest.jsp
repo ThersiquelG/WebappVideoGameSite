@@ -74,7 +74,7 @@ try{
 	<HR>
 
 	<% 
-	out.println("<ul>");
+	out.println("<ul>"); 
 	for(int i = 0; i<cyberPunk.size(); i++){
 		out.println("<li>");
 		out.print(cyberPunk.get(i).getTitle());
