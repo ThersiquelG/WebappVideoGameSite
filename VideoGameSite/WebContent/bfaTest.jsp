@@ -70,7 +70,7 @@ try{
 	</div>
 	<HR>
 	
-	<center><img alt="cyberpunk" src="image/cyberpunkthumbnail.jpg" width="350" height="200"></center>
+	<center><img alt="bfa" src="image/bfa.jpg" width="350" height="200"></center>
 	
 	<HR>
 
