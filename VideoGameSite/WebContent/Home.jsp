@@ -35,11 +35,20 @@
 	
 	<ul id="nav-tests">
 	<li><p><strong>Monster Hunter: World:</strong><em> LE jeu de l'été.</em></p>
+	
 	<a href=mhworldTest.jsp><img alt="mhw" src="image/mhthumbnail.jpg" width="350" height="200"></a></li>
+	
+	
 	<li><p><strong>CYBERPUNK 2077:</strong><em> La pépite de CDPROJEKT</em></p>
+	
 	<a href=CyberpunkTest.jsp><img alt="cyberpunk" src="image/cyberpunkthumbnail.jpg" width="350" height="200"></a></li>
+	
+	
+	
 	<li><p><strong>Battle for Azeroth:</strong><em> La dernière extension de WoW ?</em></p>
-	<img alt="bfa" src="image/bfa.jpg" width="350" height="200"></li>
+	<a href=bfaTest.jsp><img alt="bfa" src="image/bfa.jpg" width="350" height="200"></a></li>
+	
+	
 	<li><p><strong>Street Fighter V :</strong><em> Les hitboxes toujours autant mal foutues.</em></p>
 	<img alt="sfv" src="image/sfVthumbnail.jpg" width="350" height="200"></li>
 	</ul>
